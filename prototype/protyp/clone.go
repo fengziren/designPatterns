@@ -1,9 +1,9 @@
 package protyp
 
 type Clone interface {
-	GetType() string
-	GetId() string
-	SetId(id string)
 	Clone() Clone
+	GetID() uint64
+	SetID(id uint64)
+	GetTyp() string
 	Draw()
 }
