@@ -21,3 +21,7 @@
 + 建造者模式(`Builder Pattern`) 
   + [原文地址](https://www.runoob.com/design-pattern/builder-pattern.html)
   + [`Github`源码](https://github.com/fengziren/designPatterns/tree/main/builder)
+
++ 原型模式(`Prototype Pattern`) 
+  + [原文地址](https://www.runoob.com/design-pattern/prototype-pattern.html)
+  + [`Github`仓库](https://github.com/fengziren/designPatterns/tree/main/prototype)
