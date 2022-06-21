@@ -25,3 +25,9 @@
 + 原型模式(`Prototype Pattern`) 
   + [原文地址](https://www.runoob.com/design-pattern/prototype-pattern.html)
   + [`Github`仓库](https://github.com/fengziren/designPatterns/tree/main/prototype)
+
+#### 结构型模式
+
++ 适配器模式(`Adapter Pattern`) 
+  + [原文地址](https://www.runoob.com/design-pattern/adapter-pattern.html)
+  + [`Github`仓库](https://github.com/fengziren/designPatterns/tree/main/adapter)
